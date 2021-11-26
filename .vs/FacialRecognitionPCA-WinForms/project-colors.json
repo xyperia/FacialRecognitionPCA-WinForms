@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77f48ffc-9144-42ac-b303-2d2b076bb7ea": {
+      "ProjectGuid": "77f48ffc-9144-42ac-b303-2d2b076bb7ea",
+      "DisplayName": "FacialRecognitionPCA-WinForms",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

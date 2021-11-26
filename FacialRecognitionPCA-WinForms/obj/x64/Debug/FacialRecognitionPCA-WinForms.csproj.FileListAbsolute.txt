@@ -1,0 +1,163 @@
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.exe.config
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.exe
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.pdb
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.Design.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.MainForms.resources
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.Properties.Resources.resources
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.GenerateResource.cache
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.CopyComplete
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.exe
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.pdb
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.FormAddFace.resources
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csprojAssemblyReference.cache
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MySql.Data.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Renci.SshNet.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Buffers.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Memory.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Ubiety.Dns.Core.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Zstandard.Net.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MySql.Data.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Renci.SshNet.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Buffers.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Memory.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Twilio.dll
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Twilio.xml
+C:\Users\xyperia\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.FormAbout.resources
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.exe.config
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.exe
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.pdb
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.Design.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MySql.Data.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Renci.SshNet.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Buffers.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Memory.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Twilio.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Ubiety.Dns.Core.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Zstandard.Net.dll
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Google.Protobuf.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Hash.xxHash.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MySql.Data.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Renci.SshNet.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Buffers.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Memory.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Twilio.xml
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csprojAssemblyReference.cache
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.FormAbout.resources
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.FormAddFace.resources
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.MainForms.resources
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.Properties.Resources.resources
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.GenerateResource.cache
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.CopyComplete
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.exe
+C:\Users\Septian Triiriawan\Documents\Visual Studio 2019\Projects\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.pdb
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.exe.config
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.exe
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\FacialRecognitionPCA-WinForms.pdb
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\BouncyCastle.Crypto.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.GL.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.World.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Google.Protobuf.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Hash.xxHash.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.Design.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MetroFramework.Fonts.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Logging.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MySql.Data.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Newtonsoft.Json.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Renci.SshNet.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Buffers.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Memory.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Twilio.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Ubiety.Dns.Core.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Zstandard.Net.dll
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.UI.GL.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Emgu.CV.World.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Google.Protobuf.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\K4os.Hash.xxHash.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\MySql.Data.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Newtonsoft.Json.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Renci.SshNet.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Buffers.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Memory.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\bin\x64\Debug\Twilio.xml
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.AssemblyReference.cache
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.FormAbout.resources
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.FormAddFace.resources
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.MainForms.resources
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA_WinForms.Properties.Resources.resources
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.GenerateResource.cache
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.csproj.CopyComplete
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.exe
+D:\VisualStudio\FacialRecognitionPCA-WinForms\FacialRecognitionPCA-WinForms\obj\x64\Debug\FacialRecognitionPCA-WinForms.pdb

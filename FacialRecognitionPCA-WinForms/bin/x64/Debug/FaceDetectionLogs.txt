@@ -1,0 +1,63 @@
+##### Tuesday, July 28, 2020 #####
+[1] 2:13:20 PM, Name : Albert, Confidence : 99%, EigenDistance : 19.6610254543048, Message Status : Disabled, 333 ms
+[2] 2:13:39 PM, Name : Septian, Confidence : 80%, EigenDistance : 1573.46831804987, Message Status : Disabled, 2 ms
+[3] 2:13:44 PM, Name : Albert, Confidence : 78%, EigenDistance : 1720.07189866029, Message Status : Disabled, 7 ms
+##### Tuesday, July 28, 2020 #####
+[1] 2:14:22 PM, Name : Albert, Confidence : 97%, EigenDistance : 181.958737945861, Message Status : Disabled, 546 ms
+[2] 2:14:49 PM, Name : Siwan, Confidence : 99%, EigenDistance : 2.1854578050917, Message Status : Disabled, 29 ms
+[3] 2:15:18 PM, Name : David, Confidence : 99%, EigenDistance : 0.981466198174107, Message Status : Disabled, 38 ms
+[4] 2:15:54 PM, Name : Maria, Confidence : 99%, EigenDistance : 1.58231386572372, Message Status : Disabled, 46 ms
+##### Tuesday, July 28, 2020 #####
+[1] 2:16:21 PM, Name : Albert, Confidence : 81%, EigenDistance : 1502.50753214727, Message Status : Success, 1308 ms
+[2] 2:16:26 PM, Name : Maria, Confidence : 87%, EigenDistance : 987.911828553919, Message Status : Success, 628 ms
+[3] 2:16:32 PM, Name : Siwan, Confidence : 75%, EigenDistance : 1973.82532312647, Message Status : Success, 128 ms
+[4] 2:16:37 PM, Name : David, Confidence : 78%, EigenDistance : 1705.92839967607, Message Status : Success, 62 ms
+[5] 2:16:45 PM, Name : Albert, Confidence : 79%, EigenDistance : 1613.93388077054, Message Status : Success, 58 ms
+[6] 2:16:50 PM, Name : David, Confidence : 84%, EigenDistance : 1205.32779036172, Message Status : Success, 31 ms
+[7] 2:16:58 PM, Name : Maria, Confidence : 86%, EigenDistance : 1089.64847388255, Message Status : Success, 34 ms
+[8] 2:17:05 PM, Name : Septian, Confidence : 85%, EigenDistance : 1155.37026581427, Message Status : Disabled, 1 ms
+[9] 2:17:14 PM, Name : Siwan, Confidence : 76%, EigenDistance : 1864.99392440901, Message Status : Success, 53 ms
+[10] 2:17:22 PM, Name : Albert, Confidence : 76%, EigenDistance : 1841.71082979884, Message Status : Success, 10 ms
+[11] 2:17:27 PM, Name : David, Confidence : 75%, EigenDistance : 1941.97796940955, Message Status : Success, 62 ms
+[12] 2:17:33 PM, Name : Maria, Confidence : 82%, EigenDistance : 1376.16611904878, Message Status : Success, 4 ms
+[13] 2:17:42 PM, Name : Siwan, Confidence : 77%, EigenDistance : 1825.04581716891, Message Status : Success, 451 ms
+[14] 2:17:49 PM, Name : Septian, Confidence : 79%, EigenDistance : 1671.33098191565, Message Status : Disabled, 1 ms
+[15] 2:18:00 PM, Name : Albert, Confidence : 75%, EigenDistance : 1978.22730214741, Message Status : Success, 65 ms
+[16] 2:18:06 PM, Name : David, Confidence : 78%, EigenDistance : 1687.98686244821, Message Status : Success, 57 ms
+[17] 2:18:19 PM, Name : Siwan, Confidence : 80%, EigenDistance : 1569.66534058309, Message Status : Success, 127 ms
+[18] 2:18:25 PM, Name : Maria, Confidence : 75%, EigenDistance : 1928.3359133461, Message Status : Success, 10 ms
+[19] 2:18:30 PM, Name : David, Confidence : 80%, EigenDistance : 1531.84981319415, Message Status : Success, 11 ms
+[20] 2:18:40 PM, Name : Maria, Confidence : 85%, EigenDistance : 1185.31899201188, Message Status : Success, 75 ms
+[21] 2:18:46 PM, Name : Septian, Confidence : 76%, EigenDistance : 1861.25695401154, Message Status : Disabled, 1 ms
+[22] 2:18:52 PM, Name : Albert, Confidence : 75%, EigenDistance : 1994.14658264371, Message Status : Success, 65 ms
+[23] 2:18:59 PM, Name : David, Confidence : 79%, EigenDistance : 1653.68603422979, Message Status : Success, 27 ms
+[24] 2:19:09 PM, Name : Maria, Confidence : 78%, EigenDistance : 1735.71370911126, Message Status : Success, 42 ms
+[25] 2:19:15 PM, Name : Albert, Confidence : 76%, EigenDistance : 1858.86637724588, Message Status : Success, 612 ms
+[26] 2:19:19 PM, Name : Siwan, Confidence : 76%, EigenDistance : 1878.90603676364, Message Status : Success, 0 ms
+[27] 2:19:26 PM, Name : David, Confidence : 82%, EigenDistance : 1380.7078207236, Message Status : Success, 11 ms
+[28] 2:19:38 PM, Name : Albert, Confidence : 76%, EigenDistance : 1870.52663990396, Message Status : Success, 59 ms
+[29] 2:19:41 PM, Name : Septian, Confidence : 79%, EigenDistance : 1631.97877040803, Message Status : Disabled, 1 ms
+[30] 2:19:47 PM, Name : David, Confidence : 82%, EigenDistance : 1376.37519387431, Message Status : Success, 10 ms
+[31] 2:19:56 PM, Name : Siwan, Confidence : 78%, EigenDistance : 1725.82828557193, Message Status : Success, 109 ms
+[32] 2:20:02 PM, Name : Maria, Confidence : 76%, EigenDistance : 1907.51947732457, Message Status : Success, 16 ms
+[33] 2:20:09 PM, Name : Septian, Confidence : 78%, EigenDistance : 1754.96776455879, Message Status : Disabled, 1 ms
+[34] 2:20:16 PM, Name : Albert, Confidence : 80%, EigenDistance : 1544.64637298482, Message Status : Success, 113 ms
+[35] 2:20:23 PM, Name : Siwan, Confidence : 78%, EigenDistance : 1713.63948200985, Message Status : Success, 160 ms
+[36] 2:20:27 PM, Name : Maria, Confidence : 83%, EigenDistance : 1309.35630473058, Message Status : Success, 343 ms
+[37] 2:20:33 PM, Name : Albert, Confidence : 75%, EigenDistance : 1951.22087865176, Message Status : Success, 72 ms
+[38] 2:20:40 PM, Name : Siwan, Confidence : 76%, EigenDistance : 1871.53203181923, Message Status : Success, 13 ms
+[39] 2:20:46 PM, Name : Septian, Confidence : 81%, EigenDistance : 1469.37219936105, Message Status : Disabled, 1 ms
+[40] 2:20:53 PM, Name : Albert, Confidence : 77%, EigenDistance : 1830.90866814161, Message Status : Success, 65 ms
+[41] 2:21:02 PM, Name : David, Confidence : 79%, EigenDistance : 1632.53479065048, Message Status : Success, 10 ms
+[42] 2:21:09 PM, Name : Maria, Confidence : 81%, EigenDistance : 1447.71088326927, Message Status : Success, 136 ms
+[43] 2:21:15 PM, Name : Albert, Confidence : 75%, EigenDistance : 1998.93207924777, Message Status : Success, 172 ms
+[44] 2:21:19 PM, Name : David, Confidence : 77%, EigenDistance : 1831.86183258167, Message Status : Success, 60 ms
+[45] 2:21:24 PM, Name : Septian, Confidence : 78%, EigenDistance : 1704.87549207704, Message Status : Disabled, 1 ms
+[46] 2:21:29 PM, Name : Albert, Confidence : 82%, EigenDistance : 1383.4676814851, Message Status : Success, 66 ms
+[47] 2:21:37 PM, Name : Maria, Confidence : 76%, EigenDistance : 1909.20171875285, Message Status : Success, 534 ms
+[48] 2:21:42 PM, Name : David, Confidence : 75%, EigenDistance : 1951.93380350455, Message Status : Success, 10 ms
+[49] 2:21:46 PM, Name : Albert, Confidence : 76%, EigenDistance : 1892.60122906414, Message Status : Success, 72 ms
+[50] 2:21:49 PM, Name : Septian, Confidence : 75%, EigenDistance : 1936.16416539545, Message Status : Disabled, 1 ms
+[51] 3:01:06 PM, Name : Albert, Confidence : 75%, EigenDistance : 1939.87275687378, Message Status : Success, 553 ms
+##### Friday, November 26, 2021 #####
+##### Friday, November 26, 2021 #####
